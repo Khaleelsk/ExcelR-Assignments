@@ -9,3 +9,5 @@ Assignment-3-----------------> Basics of Python
 Assignment-4-----------------> Hypothesis testing Chi-Square Testing
 
 Assignment-5-----------------> EDA1
+
+Assignment-6-----------------> MLR
