@@ -11,3 +11,5 @@ Assignment-4-----------------> Hypothesis testing Chi-Square Testing
 Assignment-5-----------------> EDA1
 
 Assignment-6-----------------> MLR
+
+Assignment-7-----------------> Logistic Regression
