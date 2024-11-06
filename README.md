@@ -17,3 +17,5 @@ Assignment-7-----------------> Logistic Regression
 Assignment-8-----------------> Clustering
 
 Assignment-9-----------------> PCA
+
+Assignment-10----------------> Association Rules
