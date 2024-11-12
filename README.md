@@ -21,3 +21,7 @@ Assignment-9-----------------> PCA
 Assignment-10----------------> Association Rules
 
 Assignment-11----------------> Recommendation System
+
+Assignment-12----------------> EDA2
+
+Assignment-13----------------> Decision Tree
