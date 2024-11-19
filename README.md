@@ -31,3 +31,5 @@ Assignment-14----------------> Random Forest
 Assignment-15----------------> LGBM & XGBM
 
 Assignment-16----------------> KNN
+
+Assignment-17----------------> SVM
