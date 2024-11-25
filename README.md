@@ -35,3 +35,7 @@ Assignment-16----------------> KNN
 Assignment-17----------------> SVM
 
 Assignment-18----------------> NN
+
+Assignment-19----------------> Naive Bayes and Text Mining
+
+Assignment-20----------------> Time Series
