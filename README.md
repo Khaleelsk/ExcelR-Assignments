@@ -33,3 +33,5 @@ Assignment-15----------------> LGBM & XGBM
 Assignment-16----------------> KNN
 
 Assignment-17----------------> SVM
+
+Assignment-18----------------> NN
